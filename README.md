@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on [https://medium.com/@medo.hhh2001](https://medium.com/@medo.hhh2001)
 
 - 💬 Ask me about **Angular**
 
