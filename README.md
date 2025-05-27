@@ -7,17 +7,15 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on [https://medium.com/@medo.hhh2001](https://medium.com/@medo.hhh2001)
-
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **f**
 
 - 📫 How to reach me **mu.alateeqi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed al-ateeqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed al-ateeqi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-al-ateeqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-al-ateeqi/" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammed.alateeqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammed.alateeqi" height="30" width="40" /></a>
-<a href="https://medium.com/@muhammedalateeqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammedalateeqi" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammed al-ateeqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammed al-ateeqi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
