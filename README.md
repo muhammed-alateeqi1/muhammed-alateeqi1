@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on [Cyber Security Dashboard (Angular 17)](https://github.com/muhammed-alateeqi1/cyber-security-dashboard)  
+- 🔭 Latest project: [Cyber 50 Defense Dashboard (Angular 17)](https://github.com/muhammed-alateeqi1/cyber-50-defense-dashboard)  
 - 📌 Previous project: [eCommerce app using Real API](https://github.com/muhammed-alateeqi1/eCommerceAngular)  
-- 🌱 Learning **Full Stack Web Development (Angular + .NET)**  
+- 🌱 Currently learning **Full Stack Web Development (Angular + .NET)**  
 - 📫 Reach me at **mu.alateeqi@gmail.com**
 
 ---
@@ -65,3 +65,4 @@
 </p>
 
 ---
+
