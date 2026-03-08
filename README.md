@@ -13,7 +13,7 @@ Frontend Developer specialized in **Angular (v17)** with expertise in responsive
 
 - 🔭 **Latest Project:** [Cyber50 Dashboard](https://github.com/muhammed-alateeqi1/cyber-50-defense-dashboard) - Security Analytics Platform with D3.js visualizations
 - 💼 **Recent Work:** [FreshCart](https://github.com/muhammed-alateeqi1/eCommerceAngular) - Full-featured eCommerce web app with JWT authentication
-- 🎓 **Education:** B.Sc. in Computer Science from HIMIT 
+- 🎓 **Education:** B.Sc. in Computer Science from HIMIT
 - 🌱 **Currently Learning:** Full Stack Web Development (Angular + .NET)
 - 👨‍🏫 **Teaching Experience:** Frontend Instructor at Mindset Training (95% positive feedback)
 - 📫 **Contact:** mu.alateeqi@gmail.com
@@ -23,20 +23,30 @@ Frontend Developer specialized in **Angular (v17)** with expertise in responsive
 
 ### 🚀 Featured Projects
 
+#### 💼 **Ateeqi Portfolio v1** (2025) — *In Progress*
+Personal portfolio website showcasing projects, skills, and experience with a modern UI.
+- **Tech Stack:** Angular 17, Tailwind CSS, TypeScript
+- [View Project →](https://github.com/muhammed-alateeqi1/ateeqi.v1)
+
+#### 🗂️ **Mini CRM** (2025) — *In Progress*
+Customer Relationship Management web app for managing contacts and interactions efficiently.
+- **Tech Stack:** Angular, TypeScript, Tailwind CSS
+- [View Project →](https://github.com/muhammed-alateeqi1/CRM-Angular-)
+
 #### 🛡️ **Cyber50 Dashboard** (2025)
-Security analytics platform with 6 interactive visualization modules analyzing cybersecurity attack patterns
+Security analytics platform with 6 interactive visualization modules analyzing cybersecurity attack patterns.
 - **Tech Stack:** Angular 17, D3.js, Tailwind CSS, RxJS
 - **Features:** Real-time data filtering, custom JSON dataset (1000+ incidents), CSV export
 - [View Project →](https://github.com/muhammed-alateeqi1/cyber-50-defense-dashboard)
 
 #### 🛒 **FreshCart E-Commerce (Capstone Project)** (2024)
-Responsive eCommerce platform with complete shopping functionality
+Responsive eCommerce platform with complete shopping functionality.
 - **Tech Stack:** Angular 17, Tailwind CSS, RESTful APIs
 - **Features:** Product filtering, shopping cart, JWT authentication, lazy loading
 - [View Project →](https://github.com/muhammed-alateeqi1/eCommerceAngular)
 
 #### 🌱 **AI Plant Disease Detection** (Graduation Project - Grade: 180/180)
-Deep Learning system for crop disease identification with 96.6% accuracy
+Deep Learning system for crop disease identification with 96.6% accuracy.
 - **Tech Stack:** Python, CNN, TensorFlow, Keras, Streamlit
 - **Dataset:** 70,000+ images from PlantVillage
 
