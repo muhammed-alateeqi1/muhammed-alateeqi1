@@ -25,7 +25,7 @@ Frontend Developer specialized in **Angular (v17)** with expertise in responsive
 
 #### 💼 **Ateeqi Portfolio v1** (2025) — *In Progress*
 Personal portfolio website showcasing projects, skills, and experience with a modern UI.
-- **Tech Stack:** Angular 17, Tailwind CSS, TypeScript
+- **Tech Stack:** Angular 17, Tailwind CSS, TypeScript, Three.js
 - [View Project →](https://github.com/muhammed-alateeqi1/ateeqi.v1)
 
 #### 🗂️ **Mini CRM** (2025) — *In Progress*
